@@ -1,0 +1,16 @@
+nombre de la carpeta
+musica-app
+[nombre:'Times go by', artista:']
+
+
+app.js
+canciones.js
+    crearCancion
+    leerCancion(a partir del titulo)
+    editarArtista a partir del titulo
+    borrarCancion a partir de titulo
+    listarCanciones
+    ordenarCanciones segun artista o año
+
+
+canciones.json
